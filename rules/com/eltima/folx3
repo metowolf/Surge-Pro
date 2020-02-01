@@ -1,0 +1,7 @@
+# iOS/macOS
+PROCESS-NAME, Folx
+
+# UA
+USER-AGENT, Folx/*
+
+# Web
