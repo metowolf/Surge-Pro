@@ -1,0 +1,15 @@
+# iOS/macOS
+PROCESS-NAME, QQMusic
+
+# UA
+USER-AGENT, *QQMusic/*
+USER-AGENT, QQ%E9%9F%B3%E4%B9%90/*
+
+# Web
+DOMAIN-SUFFIX, y.qq.com
+DOMAIN-SUFFIX, music.qq.com
+DOMAIN-SUFFIX, aqqmusic.tc.qq.com
+DOMAIN-SUFFIX, y.gtimg.cn
+DOMAIN-SUFFIX, kg.qq.com
+DOMAIN-SUFFIX, stream.qqmusic.qq.com
+URL-REGEX, ^http://.*music.tc.qq.com
