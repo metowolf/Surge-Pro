@@ -1,0 +1,10 @@
+# iOS/macOS
+PROCESS-NAME, WeChat
+
+# UA
+USER-AGENT, WeChat*
+USER-AGENT, MicroMessenger*
+
+# Web
+DOMAIN-SUFFIX, wechat.com
+DOMAIN-SUFFIX, weixin.qq.com
