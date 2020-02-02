@@ -1,0 +1,10 @@
+# iOS/macOS
+PROCESS-NAME, iOA
+PROCESS-NAME, iOABiz
+PROCESS-NAME, iOAClient
+PROCESS-NAME, SmartGateAgent
+
+# UA
+
+# Web
+## private
