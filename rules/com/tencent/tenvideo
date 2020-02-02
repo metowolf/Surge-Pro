@@ -1,0 +1,12 @@
+# iOS/macOS
+PROCESS-NAME, QQLive
+
+# UA
+USER-AGENT, QQLive/*
+USER-AGENT, qqlive4iphone
+USER-AGENT, live4iphone%20rel/*
+
+# Web
+DOMAIN-SUFFIX, v.qq.com
+DOMAIN-SUFFIX, video.qq.com
+DOMAIN-SUFFIX, ugcyd.qq.com
