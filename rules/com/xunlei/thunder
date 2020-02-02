@@ -1,0 +1,12 @@
+# iOS/macOS
+PROCESS-NAME, Thunder
+PROCESS-NAME, DownloadService
+
+# UA
+USER-AGENT, %E8%BF%85%E9%9B%B7/*
+
+# Web
+DOMAIN-SUFFIX, xunlei.com
+DOMAIN-SUFFIX, xycdn.com
+DOMAIN-SUFFIX, sandai.net
+DOMAIN-SUFFIX, 88cdn.com
